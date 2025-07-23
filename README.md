@@ -38,7 +38,6 @@ Focused on digital defense, incident response, and Zero Trust implementation str
 
 ## TryHackMe Rank
 
-![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/SweetI.png)  
 **Current Rank:** 771,781  
 _Continuously building hands-on skills through real-world CTFs and lab environments._
 
